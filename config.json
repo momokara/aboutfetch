@@ -1,0 +1,18 @@
+{
+    "taobao_app_key": "",
+    "taobao_secret_key": "",
+    "remote_service_address": "",
+    "daxiangdaili": "",
+    "ip_proxies_method": "",
+    "ip_proxies_api": "",
+    "cookie": "",
+    "database": {
+        "wangpi51": {
+            "host": "",
+            "user": "",
+            "password": "",
+            "database": "",
+            "port": 3306
+        }
+    }
+}
